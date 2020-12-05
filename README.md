@@ -9,8 +9,7 @@ Sounds were converted from Ogg Vorbis to WAV for lower CPU usage and better
 compatibility with Godot, at the cost of slightly larger file size. This is a
 lossless conversion which keeps the original sound quality.
 
-See [this page](https://kenney.nl/assets/interface-sounds) for the full
-package that also contains Unity presets.
+See [this page](https://kenney.nl/assets/interface-sounds) for the original package.
 
 ## Installation
 
