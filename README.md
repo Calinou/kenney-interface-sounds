@@ -11,6 +11,10 @@ lossless conversion which keeps the original sound quality.
 
 See [this page](https://kenney.nl/assets/interface-sounds) for the original package.
 
+*Support the original artist to create more free game assets:*
+
+[![Support game assets!](https://kenney.nl/data/oga/donation.png)](http://donate.kenney.nl/)
+
 ## Installation
 
 ### Using the Asset Library
